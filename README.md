@@ -24,14 +24,14 @@
 
 ### ⚡ Recent GitHub Activity
 <br/>
- <img alt="topstar210's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=speedjudy&custom_title=topstar210's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" />
+ <img alt="speedjudy's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=speedjudy&custom_title=topstar210's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" />
 
 
 ### ⚡ Connect with me:
 
 <img align="left" alt="social-media-profile | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 <img align="left" alt="social-media-profile | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<a href="https://join.skype.com/invite/u7wpUCf5vKVC"><img align="left" alt="social-media-profile | Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" /></a>
+<a href="https://join.skype.com/invite/uaisfdZYQkv2"><img align="left" alt="social-media-profile | Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" /></a>
 <br />
 
 <br />
