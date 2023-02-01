@@ -1,6 +1,8 @@
 ### Hi there. 👋
 
 <br />
+The following things are the skills I guarantee
+<br />
 
 ### ⚡ Languages and Tools:
 
