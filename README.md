@@ -1,6 +1,8 @@
 ### Hi there. 👋
 <br />
+
 ### I am a talented web developer.
+
 <br />
 The following things are the skills I guarantee
 <br />
