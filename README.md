@@ -18,21 +18,26 @@ The following things are the skills I guarantee
 
 ### ⚡ Languages and Tools:
 
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Unix" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
-<img align="left" alt="Unix" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
-<img align="left" alt="Unix" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
-<img align="left" alt="Unix" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png" />
-<img align="left" alt="Unix" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="Unix" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />
-<img align="left" alt="Unix" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Unix" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+  <p align="center">
+    <code><img title="C" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/c.svg"></code>
+    <code><img title="Python" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/python-original.svg"></code>
+    <code><img title="Javascript" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/javascript.svg"></code>
+    <code><img title="Problem Solving" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/problemSolving.png"></code>
+    <code><img title="HTML5" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/html5.svg"></code>
+    <code><img title="CSS" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/css.svg"></code>
+    <code><img title="React" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/react-original.svg"></code>
+    <code><img title="Git" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/git-original.svg"></code>
+    <code><img title="Visual Studio Code" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/vscode.png"></code>
+    <code><img title="Microsoft Visual Studio" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/visualstudio.png"></code>
+    <code><img title="JQuery" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/jquery-original.svg"></code>
+    <code><img title="Java" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/java-original.svg"></code>
+    <code><img title="JSON" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/json.svg"></code>
+    <code><img title="GitHub" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/github.svg"></code>
+    <code><img title="MySQL" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/mysql.svg"></code>
+    <code><img title="npm" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/npm.svg"></code>
+    <code><img title="PHP" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/php.svg"></code>
+    <code><img title="Flask" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/flask.png"></code>
+  </p>
 <br />
 <br />
 
