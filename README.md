@@ -16,7 +16,9 @@ I am eager to take on new challenges and look forward to collaborating with you 
 The following things are the skills I guarantee
 <br />
 
-### ⚡ Languages and Tools:
+###   
+  <h2 align="center"> Languages & Frameworks & Tools </h2>
+  <br>
 
   <p align="center">
     <code><img title="C" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/c.svg"></code>
