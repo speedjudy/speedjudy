@@ -1,18 +1,19 @@
 ### Hi there. 👋
 <br />
 
-### I am a talented Full Stack developer.
+### I am a talented Web developer.
 
-Having mastered multiple programming languages and frameworks, I am an experienced and skilled Full Stack developer. 
- As a web developer with over 5 years of experience, I deliver high-quality web-based solutions and result on time and on budget.
+I am a skilled and experienced web developer with a deep understanding of multiple programming languages and web development frameworks. With over 7 years of industry experience, I have a proven track record of delivering high-quality web-based solutions on time and within budget.
 
-It is my expertise to be able to develop front-end applications using HTML, CSS, TailwindCss, JavaScript, React, and Typescript as well as back-end applications using Node.js and PHP. I have also gained experience in database management, including the use of MySQL, SQL Server, and MongoDB, among others.
+My expertise includes front-end development with HTML, CSS, JavaScript, React and Angular, as well as back-end development with Node.js, PHP and Python. I am also proficient in database management, including MySQL, SQL Server and MongoDB.
 
-It is my passion to build beautiful, user-friendly, and functional websites and applications that deliver exceptional user experiences. Having the skills to work collaboratively and communicate effectively with clients and team members supports agile project management.
+I am passionate about creating visually compelling and user-friendly websites and applications that deliver exceptional user experiences. My ability to work collaboratively and communicate effectively with clients and team members supports agile project management and ensures smooth project delivery.
 
-Exceptional problem-solving skills and an interest in the latest web development technologies and trends enable me to deliver innovative and impactful digital solutions.
+With exceptional problem-solving skills and a natural curiosity about the latest web development technologies and trends, I am committed to delivering innovative and impactful digital solutions that meet and exceed clients' expectations.
 <br>
-Looking forward to collaborating with you on your web development needs.
+I am eager to take on new challenges and look forward to collaborating with you in achieving your web development goals.
+<br>
+The following things are the skills I guarantee
 
 ###   
   <h2 align="center"> Languages & Frameworks & Tools </h2>
